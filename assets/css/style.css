@@ -45,5 +45,12 @@ img{
     opacity:0.5;
 
 }
+address{
+    height: 40px; 
+    position: fixed; 
+    bottom:5%;
+    width:100%; 
+    opacity: 1;
+}
 
 
